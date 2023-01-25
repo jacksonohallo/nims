@@ -16,7 +16,7 @@ const Menu = () => {
         </li>
         <li>
           <FadeInContainer delay={500}>
-            <MUIButton component="a" href="/#experience">
+            <MUIButton component="a" href="https://client-delta-tan.vercel.app/" target="_blank">
               Geoinformatics
             </MUIButton>
           </FadeInContainer>
